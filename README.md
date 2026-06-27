@@ -10,7 +10,7 @@ Los modelos desarrollados fueron
 - Modelos de ensamble como Bosques aleatorios, AdaBoost y XGBoost.
 - Redes neuronales MLP.
 
-Tras evaluar su desempeño, XGBoost resultó la alternativa más adecuada para apoyar a la identificación temprana de empleados con más riesgo de abandonar la compañía, para así contribuir al diseño de estrategias preventivas de retención. Este modelo logró identificar correctamente del conjunto de prueba al 74% de empleados que abandonaron la compañía, alcanzando además, una precisión del 60%.
+Tras evaluar su desempeño, XGBoost resultó la alternativa más adecuada para apoyar la identificación temprana de empleados con más riesgo de abandonar la compañía, para así contribuir al diseño de estrategias preventivas de retención. Este modelo logró identificar correctamente del conjunto de prueba al 74% de empleados que abandonaron la compañía, alcanzando además, una precisión del 60%.
 
 Notas:
 
