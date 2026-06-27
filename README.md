@@ -14,8 +14,9 @@ Tras evaluar su desempeño, XGBoost resultó la alternativa más adecuada para a
 
 Notas:
 
-- El código y el análisis se pueden consultar en el jupyter notebook [ProyectoFinal_Mod5.ipynb](). 
-- El conjunto de datos se encuentra en el archivo [WA_Fn-UseC_-HR-Employee-Attrition.csv](WA_Fn-UseC_-HR-Employee-Attrition.csv).  
+- El código y el análisis se pueden consultar en el jupyter notebook [Proyecto final módulo 5.ipynb](Proyecto%20final%20módulo%205.ipynb). 
+- El informe de este proyecto puede consultarse en [Informe.pdf](Informe.pdf).
+- El conjunto de datos se encuentran en el archivo [WA_Fn-UseC_-HR-Employee-Attrition.csv](WA_Fn-UseC_-HR-Employee-Attrition.csv).  
 - Los paquetes necesarios para poder ejecutar el código pueden encontrarse en el archivo [requirements.txt](requirements.txt).
 
 Autores:
