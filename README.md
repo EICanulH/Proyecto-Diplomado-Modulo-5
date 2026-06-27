@@ -4,7 +4,7 @@ La salida voluntaria de empleados representa un desafío para las organizaciones
 
 En este sentido, el presente análisis tiene como objetivo desarrollar y comparar distintos modelos de aprendizaje supervisado para la predicción de la rotación voluntaria de empleados a partir de variables demográficas, laborales, salariales y de satisfacción organizacional, contenidas en el conjunto de datos *IBM HR Analytics Employee Attrition*, descargado de [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
-Los modelos desarrollados fueron
+Los modelos desarrollados fueron:
 
 - Modelos de regresión logística con regularizaciones Lasso y Ridge.
 - Modelos de ensamble como Bosques aleatorios, AdaBoost y XGBoost.
