@@ -17,3 +17,11 @@ Notas:
 - El código y el análisis se pueden consultar en el jupyter notebook [ProyectoFinal_Mod5.ipynb](). 
 - El conjunto de datos se encuentra en el archivo [WA_Fn-UseC_-HR-Employee-Attrition.csv](WA_Fn-UseC_-HR-Employee-Attrition.csv).  
 - Los paquetes necesarios para poder ejecutar el código pueden encontrarse en el archivo [requirements.txt](requirements.txt).
+
+Autores:
+
+- Brenda Poulette Torres Vargas
+- Diego Betancourt Peralta
+- Erick Iván Canul Hernández
+- José Omar Gutiérrez Gutiérrez
+- Maximiliano Hernández Pérez
